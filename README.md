@@ -7,8 +7,7 @@ Advisors :
 <aside>
 👋 **Big picture goal**
 
-A. Make a copy of this paper - replace "Supply Chain Analytics" with "US Trade Compliance"
-https://arxiv.org/pdf/2411.08550
+A. Graph Neural Networks in US Trade Compliance Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks 
 
 B. Explore technological innovations that solve the biggest issues 
 
